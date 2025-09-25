@@ -1,3 +1,3 @@
 # -new-repo
 
-tihs is my local repo
+this is my local repo
